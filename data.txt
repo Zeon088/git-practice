@@ -1,0 +1,5 @@
+name: erick
+age: 18
+favorite color: yellow
+git init
+git --version
